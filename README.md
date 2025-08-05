@@ -1,1 +1,1 @@
-# python_course
+# Python Course in Slovak Language
